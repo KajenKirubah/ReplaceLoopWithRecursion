@@ -7,3 +7,4 @@ function sum(arr, n) {
     }
     // Only change code above this line
   }
+  console.log("testing");
